@@ -4,26 +4,29 @@
   <img height="300" width="600" src="https://media1.tenor.com/m/FdkbSvSxI9MAAAAC/chilled-lamb-mienar.gif"  />
 </div>
 
-<h1 align="center">Привет 👋, меня зовут Антон.</h1>
+<h1 align="center">Привет 👋, меня зовут Антон. 
+  <br>
+  <br>
+  Я Front-End React разработчик.
+</h1>
 
 ###
 
-<h3 align="center">Я Front-End React разработчик.</h3> 
+ <p align="center"> 
+  <a href="https://antonkotylevsky.ru" target="_blank">
+    <img alt="website" src="https://img.shields.io/badge/-googleChrome?style=plastic&logo=firefox&logoColor=%23FF7139&label=antonkotylevsky.ru&color=%23FF7139" height="25px">
+  </a>
+   <a href="https://t.me/kotylevsky" target="_blank">
+    <img alt="telegram" src="https://img.shields.io/badge/-googleChrome?style=plastic&logo=telegram&logoColor=%2326A5E4&label=Telegram&color=%2326A5E4" height="25px">
+  </a>
+   <a href="mailto:kotylevskiyy@yandex.ru" target="_blank">
+   <img alt="Static Badge" src="https://img.shields.io/badge/-yandexmail?style=plastic&logo=maildotru&logoColor=%23EA4335&label=kotylevskiyy%40yandex.ru&color=%23EA4335" height="25px">
+  </a>
+ </p>
+
 
 ###
-
-<h3 align="left">Моя страсть — воплощать дизайн в жизнь, делая сайты и приложения не только красивыми, но и удобными в использовании.</h3>
-
-###
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ikai94&label=Profile%20views&color=0e75b6&style=flat" alt="ikai94" /> </p>
-
-###
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-###
-
+<br>
 <h3 align="left">👩‍💻 &nbsp;About me</h3>
 <p align="left">
 &nbsp;  Мое погружение в мир веб-разработки началось с любопытства и желания создавать удивительные пользовательские интерфейсы. Меня увлекает возможность преобразования идей в реальность с помощью кода. В работе над проектами я стремлюсь к продуманному дизайну, оптимизированной производительности и отзывчивому пользовательскому опыту.
@@ -59,7 +62,3 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ikai94&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ikai94&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"   />
 </p>
-
-###
-
- <h3 align="left">🤝🏻 &nbsp;Connect with Me</h3>
